@@ -6,7 +6,20 @@
 
 ###
 
-<p align="left">I'm Lew Andrade, creating some stuff directly from Brazil! 🇧🇷<br><br>I'm a software engineer with 5+ years of experience; I like to build stuff from the ground up, and to see how the things I help create grow. <br><br>Everything started when I was a little girl and wanted to make some games--because I've had played so much of them and thought I might be able to do it myself. Didn't get to publish any game (yet!) but this was enough to teach myself some programming and then get carreer started. Since then I worked in some startups, built some things, and now I work at one of the world's biggest digital banks<br><br>- 🔭 I’m working as a Software Engineer @ Nubank.<br>- 📚 I'm currently learning Go and C for some systems design fun stuff.<br>- ⚡ In my free time I like to play soccer, video games and listen to good music.</p>
+<p align="left">I'm Lew Andrade, creating some stuff directly from Brazil! 🇧🇷
+  <br>
+  <br>
+  I'm a software engineer with 5+ years of experience; I like to build stuff from the ground up, and to see how the things I help create grow. 
+  <br>
+  <br>
+  Everything started when I was a little girl and wanted to make some games--because I've had played so much of them and thought I might be able to do it myself. Didn't get to publish any game (yet!) but this was enough to teach myself some programming and then get carreer started. Since then I worked in some startups, built some things, and now I work at one of the world's biggest digital banks
+  <br>
+  <br>
+  - 🔭 I’m working as a Software Engineer at Nubank.
+  <br>
+  - 📚 I'm currently learning Go and C for some systems design fun stuff.
+  <br>
+  - ⚡ In my free time I like to play soccer, video games and listen to good music.</p>
 
 ###
 
